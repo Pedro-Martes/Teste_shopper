@@ -21,7 +21,7 @@ Instale as dependências
 Entre no diretório "server" do projeto:
 
 ```bash
-  cd Teste_shopper/server:
+  cd Teste_shopper/server
 ```
 
 Instale as dependências:
