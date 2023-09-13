@@ -1,7 +1,7 @@
 ## Acesso Online
 Para acessar o projeto online acesse o link:
 ```bash
-https://tech-test-shopper-678-nmn873vx8-pedro-matos678.vercel.app/
+https://tech-test-shopper.vercel.app/
 ```
 ## 1. Configurar localmente
 
